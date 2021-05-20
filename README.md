@@ -15,7 +15,7 @@ These projects opened my mind regarding technologies server-side, the files in t
   </a>
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/nicolasbrito219/Projects-PHP/blob/main/license) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/nicolasbrito219/Projects-PHP/blob/main/LICENSE) file for details.
 <br>
 Thank you!
 
